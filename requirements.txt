@@ -1,0 +1,8 @@
+streamlit
+ollama
+chromadb
+sentence-transformers
+pypdf
+langchain-text-splitters
+python-docx
+python-pptx
